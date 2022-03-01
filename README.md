@@ -1,5 +1,4 @@
-
-<h1> Esse projeto foi feito por <a  href="https://github.com/lcamaraol/">Bernardo <a , e pelo  href="https://github.com/flexxphael/">Raphael. <img  src="https://www.gamerview.com.br/wp-content/uploads/2019/12/dark-souls.gif" width="50px"></h1>
+<h1> Esse projeto foi feito por <a  href="https://github.com/lcamaraol/">Bernardo, e pelo <a  href="https://github.com/flexxphael/">Raphael. <img  src="https://www.gamerview.com.br/wp-content/uploads/2019/12/dark-souls.gif" width="50px"></h1>
 
 
 # Prova_Backend
@@ -13,7 +12,7 @@ http://localhost:8080/api/produtos -
 Post: Cria produtos
 
 {
-       "codigo": 12,
+       "codigo do produto": 12,
        "nome": "feijao",
        "quantidade": 10,
        "valor": 4
@@ -28,6 +27,6 @@ Delete: Deleta o produto
 http://localhost:8080/api/produtos/vendas -
 Get: Lista as vendas
 
-http://localhost:8080/api/produtos/venda/{codigo}/{solicitacao} - 
+http://localhost:8080/api/produtos/venda/{codigo}/{quantidade do produto} - 
 Post: Faz uma venda
 
