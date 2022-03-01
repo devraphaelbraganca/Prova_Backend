@@ -1,5 +1,5 @@
 
-<h1> Esse projeto foi feito por <a  href="https://github.com/lcamaraol/">Bernardo, e pelo <a  href="https://github.com/flexxphael/">Raphael. <img  src="https://www.gamerview.com.br/wp-content/uploads/2019/12/dark-souls.gif" width="50px"></h1>
+<h1> Esse projeto foi feito por <a  href="https://github.com/lcamaraol/">Bernardo <a, e pelo  href="https://github.com/flexxphael/">Raphael. <img  src="https://www.gamerview.com.br/wp-content/uploads/2019/12/dark-souls.gif" width="50px"></h1>
 
 
 # Prova_Backend
