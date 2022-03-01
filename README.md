@@ -1,8 +1,8 @@
 <h1> Esse projeto foi feito por <a  href="https://github.com/lcamaraol/">Bernardo, e pelo <a  href="https://github.com/flexxphael/">Raphael. <img  src="https://www.gamerview.com.br/wp-content/uploads/2019/12/dark-souls.gif" width="50px"></h1>
 
+### Explicação da prova
 
-# Prova_Backend
-prova/explicação
+- Utilizei a plataforma do [Postman](https://www.postman.com) para fazer os testes.
 
 Meu programa funciona da seguinte maneira:
 
@@ -30,3 +30,6 @@ Get: Lista as vendas
 http://localhost:8080/api/produtos/venda/{codigo}/{quantidade do produto} - 
 Post: Faz uma venda
 
+<br>
+<br>
+<img align='left' src="https://playerassist.com/wp-content/uploads/2018/09/Dark_souls_bonfire.jpg">
