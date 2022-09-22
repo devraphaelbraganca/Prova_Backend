@@ -1,6 +1,6 @@
 <h1> Esse projeto foi feito por <a  href="https://github.com/flexxphael/">Raphael. <img  src="https://www.gamerview.com.br/wp-content/uploads/2019/12/dark-souls.gif" width="50px"></h1>
 
-### Explicação da prova
+### Explicação do projeto
 
 - Utilizei a plataforma do [Postman](https://www.postman.com) para fazer os testes.
 
